@@ -121,6 +121,9 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
 }
 
 extension NSMutableData {
+    //you there? yes
+    //can you open terming
+    //testing!!  I know
     
     func appendString(string: String) {
         let data = string.dataUsingEncoding(NSUTF8StringEncoding, allowLossyConversion: true)
